@@ -1,4 +1,7 @@
-
+<p align="center">
+  <a href="https://github.com/dbuggers">
+    <img src="" alt="Dbuggers" width="200" height="200">
+  </a>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+we're+debuggers!&center=false&width=300&height=40"> </p>
 
 **We're dbuggers a coding team we code :**<br>
