@@ -1,3 +1,4 @@
+<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=DBuggers&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 <p align="center">
   <a href="https://github.com/dbuggers">
     <img src="" alt="Dbuggers" width="200" height="200">
